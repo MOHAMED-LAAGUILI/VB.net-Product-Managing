@@ -1,0 +1,95 @@
+C:\Users\Moham\OneDrive\Bureau\Client Serveur 02\GestionProduit\GestionProduit\bin\Debug\GestionProduit.exe
+C:\Users\Moham\OneDrive\Bureau\Client Serveur 02\GestionProduit\GestionProduit\bin\Debug\GestionProduit.pdb
+C:\Users\Moham\OneDrive\Bureau\Client Serveur 02\GestionProduit\GestionProduit\bin\Debug\GestionProduit.xml
+C:\Users\Moham\OneDrive\Bureau\Client Serveur 02\GestionProduit\GestionProduit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Moham\OneDrive\Bureau\Client Serveur 02\GestionProduit\GestionProduit\obj\Debug\GestionProduit.Resources.resources
+C:\Users\Moham\OneDrive\Bureau\Client Serveur 02\GestionProduit\GestionProduit\obj\Debug\GestionProduit.vbproj.GenerateResource.Cache
+C:\Users\Moham\OneDrive\Bureau\Client Serveur 02\GestionProduit\GestionProduit\obj\Debug\GestionProduit.exe
+C:\Users\Moham\OneDrive\Bureau\Client Serveur 02\GestionProduit\GestionProduit\obj\Debug\GestionProduit.xml
+C:\Users\Moham\OneDrive\Bureau\Client Serveur 02\GestionProduit\GestionProduit\obj\Debug\GestionProduit.pdb
+C:\Users\Moham\OneDrive\Bureau\Client Serveur 02\GestionProduit\GestionProduit\obj\Debug\GestionProduit.Produit.resources
+E:\MIAGE K.E.K\2éme année\Client Server\GestionProduit\GestionProduit\obj\Debug\GestionProduit.exe
+E:\MIAGE K.E.K\2éme année\Client Server\GestionProduit\GestionProduit\obj\Debug\GestionProduit.xml
+E:\MIAGE K.E.K\2éme année\Client Server\GestionProduit\GestionProduit\obj\Debug\GestionProduit.pdb
+E:\MIAGE K.E.K\2éme année\Client Server\GestionProduit\GestionProduit\bin\Debug\GestionProduit.exe
+E:\MIAGE K.E.K\2éme année\Client Server\GestionProduit\GestionProduit\bin\Debug\GestionProduit.pdb
+E:\MIAGE K.E.K\2éme année\Client Server\GestionProduit\GestionProduit\bin\Debug\GestionProduit.xml
+E:\MIAGE K.E.K\2éme année\Client Server\GestionProduit\GestionProduit\obj\Debug\ResolveAssemblyReference.cache
+E:\MIAGE K.E.K\2éme année\Client Server\GestionProduit\GestionProduit\obj\Debug\GestionProduit.Produit.resources
+E:\MIAGE K.E.K\2éme année\Client Server\GestionProduit\GestionProduit\obj\Debug\GestionProduit.Resources.resources
+E:\MIAGE K.E.K\2éme année\Client Server\GestionProduit\GestionProduit\obj\Debug\GestionProduit.vbproj.GenerateResource.Cache
+D:\GestionProduit\GestionProduit\obj\Debug\GestionProduit.exe
+D:\GestionProduit\GestionProduit\obj\Debug\GestionProduit.xml
+D:\GestionProduit\GestionProduit\obj\Debug\GestionProduit.pdb
+D:\GestionProduit\GestionProduit\bin\Debug\GestionProduit.exe
+D:\GestionProduit\GestionProduit\bin\Debug\GestionProduit.pdb
+D:\GestionProduit\GestionProduit\bin\Debug\GestionProduit.xml
+D:\GestionProduit\GestionProduit\obj\Debug\ResolveAssemblyReference.cache
+D:\GestionProduit\GestionProduit\obj\Debug\GestionProduit.Produit.resources
+D:\GestionProduit\GestionProduit\obj\Debug\GestionProduit.Resources.resources
+D:\GestionProduit\GestionProduit\obj\Debug\GestionProduit.vbproj.GenerateResource.Cache
+D:\GestionProduit\GestionProduit\obj\Debug\GestionProduit.commande.resources
+C:\Users\pc-prof\Documents\TS2 DI\GestionProduit\GestionProduit\obj\Debug\GestionProduit.exe
+C:\Users\pc-prof\Documents\TS2 DI\GestionProduit\GestionProduit\obj\Debug\GestionProduit.xml
+C:\Users\pc-prof\Documents\TS2 DI\GestionProduit\GestionProduit\obj\Debug\GestionProduit.pdb
+C:\Users\pc-prof\Documents\TS2 DI\GestionProduit\GestionProduit\bin\Debug\GestionProduit.exe
+C:\Users\pc-prof\Documents\TS2 DI\GestionProduit\GestionProduit\bin\Debug\GestionProduit.pdb
+C:\Users\pc-prof\Documents\TS2 DI\GestionProduit\GestionProduit\bin\Debug\GestionProduit.xml
+C:\Users\pc-prof\Documents\TS2 DI\GestionProduit\GestionProduit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pc-prof\Documents\TS2 DI\GestionProduit\GestionProduit\obj\Debug\GestionProduit.commande.resources
+C:\Users\pc-prof\Documents\TS2 DI\GestionProduit\GestionProduit\obj\Debug\GestionProduit.Produit.resources
+C:\Users\pc-prof\Documents\TS2 DI\GestionProduit\GestionProduit\obj\Debug\GestionProduit.Resources.resources
+C:\Users\pc-prof\Documents\TS2 DI\GestionProduit\GestionProduit\obj\Debug\GestionProduit.vbproj.GenerateResource.Cache
+C:\Users\pc-prof\Documents\TS2 DI\GestionProduit\GestionProduit\obj\Debug\GestionProduit.consultation.resources
+C:\Users\admin\Desktop\GestionProduit\GestionProduit\obj\Debug\GestionProduit.exe
+C:\Users\admin\Desktop\GestionProduit\GestionProduit\obj\Debug\GestionProduit.xml
+C:\Users\admin\Desktop\GestionProduit\GestionProduit\obj\Debug\GestionProduit.pdb
+C:\Users\admin\Desktop\GestionProduit\GestionProduit\bin\Debug\GestionProduit.exe
+C:\Users\admin\Desktop\GestionProduit\GestionProduit\bin\Debug\GestionProduit.pdb
+C:\Users\admin\Desktop\GestionProduit\GestionProduit\bin\Debug\GestionProduit.xml
+C:\Users\admin\Desktop\GestionProduit\GestionProduit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\GestionProduit\GestionProduit\obj\Debug\GestionProduit.commande.resources
+C:\Users\admin\Desktop\GestionProduit\GestionProduit\obj\Debug\GestionProduit.consultation.resources
+C:\Users\admin\Desktop\GestionProduit\GestionProduit\obj\Debug\GestionProduit.Produit.resources
+C:\Users\admin\Desktop\GestionProduit\GestionProduit\obj\Debug\GestionProduit.Resources.resources
+C:\Users\admin\Desktop\GestionProduit\GestionProduit\obj\Debug\GestionProduit.vbproj.GenerateResource.Cache
+E:\GestionProduit\GestionProduit\obj\Debug\GestionProduit.exe
+E:\GestionProduit\GestionProduit\obj\Debug\GestionProduit.xml
+E:\GestionProduit\GestionProduit\obj\Debug\GestionProduit.pdb
+E:\GestionProduit\GestionProduit\obj\Debug\ResolveAssemblyReference.cache
+E:\GestionProduit\GestionProduit\obj\Debug\GestionProduit.commande.resources
+E:\GestionProduit\GestionProduit\obj\Debug\GestionProduit.consultation.resources
+E:\GestionProduit\GestionProduit\obj\Debug\GestionProduit.Produit.resources
+E:\GestionProduit\GestionProduit\obj\Debug\GestionProduit.Resources.resources
+E:\GestionProduit\GestionProduit\obj\Debug\GestionProduit.vbproj.GenerateResource.Cache
+E:\GestionProduit\GestionProduit\bin\Debug\GestionProduit.exe
+E:\GestionProduit\GestionProduit\bin\Debug\GestionProduit.pdb
+E:\GestionProduit\GestionProduit\bin\Debug\GestionProduit.xml
+E:\MIAGE K.E.K\2éme année\Client Server\Exercices\GestionProduit\GestionProduit\obj\Debug\GestionProduit.exe
+E:\MIAGE K.E.K\2éme année\Client Server\Exercices\GestionProduit\GestionProduit\obj\Debug\GestionProduit.xml
+E:\MIAGE K.E.K\2éme année\Client Server\Exercices\GestionProduit\GestionProduit\obj\Debug\GestionProduit.pdb
+E:\MIAGE K.E.K\2éme année\Client Server\Exercices\GestionProduit\GestionProduit\bin\Debug\GestionProduit.exe
+E:\MIAGE K.E.K\2éme année\Client Server\Exercices\GestionProduit\GestionProduit\bin\Debug\GestionProduit.pdb
+E:\MIAGE K.E.K\2éme année\Client Server\Exercices\GestionProduit\GestionProduit\bin\Debug\GestionProduit.xml
+E:\MIAGE K.E.K\2éme année\Client Server\Exercices\GestionProduit\GestionProduit\obj\Debug\ResolveAssemblyReference.cache
+E:\MIAGE K.E.K\2éme année\Client Server\Exercices\GestionProduit\GestionProduit\obj\Debug\GestionProduit.commande.resources
+E:\MIAGE K.E.K\2éme année\Client Server\Exercices\GestionProduit\GestionProduit\obj\Debug\GestionProduit.consultation.resources
+E:\MIAGE K.E.K\2éme année\Client Server\Exercices\GestionProduit\GestionProduit\obj\Debug\GestionProduit.Produit.resources
+E:\MIAGE K.E.K\2éme année\Client Server\Exercices\GestionProduit\GestionProduit\obj\Debug\GestionProduit.Resources.resources
+E:\MIAGE K.E.K\2éme année\Client Server\Exercices\GestionProduit\GestionProduit\obj\Debug\GestionProduit.vbproj.GenerateResource.Cache
+H:\MIAGE K.E.K\2éme année\Client Server\Exercices\Access\GestionProduit\GestionProduit\obj\Debug\GestionProduit.exe
+H:\MIAGE K.E.K\2éme année\Client Server\Exercices\Access\GestionProduit\GestionProduit\obj\Debug\GestionProduit.xml
+H:\MIAGE K.E.K\2éme année\Client Server\Exercices\Access\GestionProduit\GestionProduit\obj\Debug\GestionProduit.pdb
+C:\Users\Pc-01\Desktop\GestionProduit\GestionProduit\obj\Debug\GestionProduit.exe
+C:\Users\Pc-01\Desktop\GestionProduit\GestionProduit\obj\Debug\GestionProduit.xml
+C:\Users\Pc-01\Desktop\GestionProduit\GestionProduit\obj\Debug\GestionProduit.pdb
+C:\Users\Pc-01\Desktop\GestionProduit\GestionProduit\bin\Debug\GestionProduit.exe.config
+C:\Users\Pc-01\Desktop\GestionProduit\GestionProduit\bin\Debug\GestionProduit.exe
+C:\Users\Pc-01\Desktop\GestionProduit\GestionProduit\bin\Debug\GestionProduit.pdb
+C:\Users\Pc-01\Desktop\GestionProduit\GestionProduit\bin\Debug\GestionProduit.xml
+C:\Users\Pc-01\Desktop\GestionProduit\GestionProduit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc-01\Desktop\GestionProduit\GestionProduit\obj\Debug\GestionProduit.commande.resources
+C:\Users\Pc-01\Desktop\GestionProduit\GestionProduit\obj\Debug\GestionProduit.consultation.resources
+C:\Users\Pc-01\Desktop\GestionProduit\GestionProduit\obj\Debug\GestionProduit.Produit.resources
+C:\Users\Pc-01\Desktop\GestionProduit\GestionProduit\obj\Debug\GestionProduit.Resources.resources
+C:\Users\Pc-01\Desktop\GestionProduit\GestionProduit\obj\Debug\GestionProduit.vbproj.GenerateResource.Cache
